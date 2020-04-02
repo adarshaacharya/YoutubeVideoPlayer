@@ -1,11 +1,11 @@
-#Youtube Video Player
+# Youtube Video Player
 
 ---
 
 React based web app that uses Youtube API to search and play youtube videos easier and faster.
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App is deployed live : [Youtube Video Player](https://adarshaacharya.github.io/YoutubeVideoPlayer/)
 
 ## Available Scripts
 
