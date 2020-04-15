@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/YoutubeVideoPlayer/static/css/main.cdd8167b.chunk.css",
-    "main.js": "/YoutubeVideoPlayer/static/js/main.eac4c0a2.chunk.js",
-    "main.js.map": "/YoutubeVideoPlayer/static/js/main.eac4c0a2.chunk.js.map",
+    "main.js": "/YoutubeVideoPlayer/static/js/main.d415a266.chunk.js",
+    "main.js.map": "/YoutubeVideoPlayer/static/js/main.d415a266.chunk.js.map",
     "runtime-main.js": "/YoutubeVideoPlayer/static/js/runtime-main.3f72874a.js",
     "runtime-main.js.map": "/YoutubeVideoPlayer/static/js/runtime-main.3f72874a.js.map",
     "static/js/2.e4fabc7a.chunk.js": "/YoutubeVideoPlayer/static/js/2.e4fabc7a.chunk.js",
     "static/js/2.e4fabc7a.chunk.js.map": "/YoutubeVideoPlayer/static/js/2.e4fabc7a.chunk.js.map",
     "index.html": "/YoutubeVideoPlayer/index.html",
-    "precache-manifest.1b04676265295bbcb930d16fc3dd6764.js": "/YoutubeVideoPlayer/precache-manifest.1b04676265295bbcb930d16fc3dd6764.js",
+    "precache-manifest.7a0f1a8a984455403335c25bf037bed8.js": "/YoutubeVideoPlayer/precache-manifest.7a0f1a8a984455403335c25bf037bed8.js",
     "service-worker.js": "/YoutubeVideoPlayer/service-worker.js",
     "static/css/main.cdd8167b.chunk.css.map": "/YoutubeVideoPlayer/static/css/main.cdd8167b.chunk.css.map",
     "static/js/2.e4fabc7a.chunk.js.LICENSE.txt": "/YoutubeVideoPlayer/static/js/2.e4fabc7a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3f72874a.js",
     "static/js/2.e4fabc7a.chunk.js",
     "static/css/main.cdd8167b.chunk.css",
-    "static/js/main.eac4c0a2.chunk.js"
+    "static/js/main.d415a266.chunk.js"
   ]
 }
