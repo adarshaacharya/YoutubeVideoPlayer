@@ -5,7 +5,7 @@ import SearchBar from "./SearchBar";
 import VideoList from "./VideoList";
 import VideoDetail from "./VideoDetail";
 
-class App extends React.Component {
+class App extends React.Component { 
   state = {
     videos: [],
     selectedVideo: null
@@ -26,7 +26,7 @@ class App extends React.Component {
           q: term
         }
       }
-    );
+    ); 
 
     this.setState({
       videos: response.data.items,
